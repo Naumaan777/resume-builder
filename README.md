@@ -1,12 +1,11 @@
 # Resume Builder
 
-</div>
 ## Description
 This project is a Resume Builder application built using React.js, Next.js, Redux, Hooks, APIs, JavaScript, and TypeScript. It allows users to create and customize their professional resumes.
 <div align="center">
 
 ### Free and open source, professional single page resume builder
-![Uploading resu<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
 
 
 
@@ -15,6 +14,7 @@ This project is a Resume Builder application built using React.js, Next.js, Redu
 
 [![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![ReactJS](https://skillicons.dev/icons?i=reactjs)](https://reactjs.org/)
+</div>
 
 ## Features
 - **User Authentication**: Users can sign up, log in, and manage their profiles.
