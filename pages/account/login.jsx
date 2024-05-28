@@ -61,7 +61,7 @@ function Login() {
                 <div class="welcome">
                     <h1>Welcome to Resume Builder, <br/></h1>
                     <p>Create your own resume in few minutes with AI suggestion</p>
-                    <img src="https://www.w3schools.com/images/picture.jpg" alt="not" className='login-image' />
+                    <img src="https://github.com/Naumaan777/resume-builder/blob/main/pages/asset/resume-portfolio-svgrepo-com.svg" alt="Loading" className='login-image' />
                     
                 </div>    
                 <div className="card">
