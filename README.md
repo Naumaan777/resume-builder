@@ -73,7 +73,6 @@ If you are interested in contributing (fixing bugs, improving features, or creat
 
 File a [bug report](https://github.com/sadanandpai/resume-builder/issues/new?assignees=sadanandpai&labels=&template=bug_report.md&title=) or [feature request](https://github.com/sadanandpai/resume-builder/issues/new?assignees=sadanandpai&labels=&template=feature_request.md&title=) using the [New Issues](https://github.com/sadanandpai/resume-builder/issues/new/choose) page. 
 
-[View all issues.](https://github.com/Naumaan777/)
 
 ## License
 
