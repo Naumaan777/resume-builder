@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Free and open source, professional single page resume builder
+ **Free and open source, professional single page resume builder**
 
 ![resume-portfolio-svgrepo-com](https://github.com/Naumaan777/resume-builder/assets/115418662/9da76ea4-4f32-47dc-a396-2e65fa92b83c)
 
@@ -20,26 +20,50 @@ This project is a Resume Builder application built using React.js, Next.js, Redu
 - **Customization**: Users can choose from various resume templates and customize the layout.
 - **Export**: Users can export their resume as a PDF or share it via a unique link.
 
-## Installation
-1. Clone the repository:
-  git clone https://github.com/your-username/resume-builder.git
 
-2. Install dependencies:
-  cd resume-builder npm install
-
-3. Set up environment variables (e.g., API keys, database connection).
-
-4. Start the development server:
 
 
 ## Usage
-1. Visit `http://localhost:3000` in your browser.
-2. Sign up or log in to create your resume.
-3. Fill in the necessary details in the form.
-4. Customize the template as desired.
-5. Export your resume or generate a shareable link.
 
-## Technologies Used
+1. Clone this repository and navigate into it:
+    ```
+    git clone https://github.com/Naumaan777/resume-builder.git
+    cd resume-builder
+    ```
+
+2. Install all dependencies:
+    ```
+    npm install
+    ```
+3. Set up environment variables ``` (e.g., API keys, database connection).```
+
+4. setup the mysql connection ``` MySQL Connection ```
+
+3. Create a `.env.local` file in the root directory and build :
+
+    ```env
+    npm run build
+    ```
+
+5. Run the following command to start Next.js:
+    ```
+    npm run dev
+    ```
+
+
+6. Go to `http://localhost:3000` to see the app.
+   
+7. Sign up or log in to create your resume.
+
+8. Fill in the necessary details in the form.
+
+9. Customize the template as desired.
+
+10. Export your resume or generate a shareable link.
+
+
+
+## Technologies and Framework Used
 - React.js
 - Next.js
 - Redux
@@ -53,21 +77,21 @@ This project is a Resume Builder application built using React.js, Next.js, Redu
 
 ## About
 
-[Resume Builder] is an open-source application where one can effectively build a single-page professional resume.
+> [Resume Builder] is an open-source application where one can effectively build a single-page professional resume.
 
 
 Features:
 
 - Customise with templates and themes!
 - Simple interface that helps you build quickly!
-- No sign-up needed — go straight to the building!
+- No sign-up needed(as u wish) — go straight to the building!
 - Your data never leaves your device
 
 
 
 ## Contributing Guide
 
-If you are interested in contributing (fixing bugs, improving features, or creating a resume template), please refer to [Contributing Guide](./CONTRIBUTING.md).
+If you are interested in contributing (fixing bugs, improving features, or creating a resume template), please refer to [Contributing Guide](https://nextjs.org/docs).
 
 ## Report Bugs and Feature Requests
 
