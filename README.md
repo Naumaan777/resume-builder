@@ -11,6 +11,9 @@
 
 </div>
 
+
+
+
 ## Description
 This project is a Resume Builder application built using React.js, Next.js, Redux, Hooks, APIs, JavaScript, and TypeScript. It allows users to create and customize their professional resumes.
 
@@ -46,14 +49,16 @@ This project is a Resume Builder application built using React.js, Next.js, Redu
     ```
 
 5. Run the following command to start Next.js:
+
     ```
     npm run dev
     ```
 
-
 6. Go to `http://localhost:3000` to see the app.
    
 7. Sign up or log in to create your resume.
+
+ ![Screenshot (1)](https://github.com/Naumaan777/resume-builder/assets/115418662/4fa4f562-6e7b-4e8c-81b1-cf7898fc8157)
 
 8. Fill in the necessary details in the form.
 
@@ -101,3 +106,9 @@ File a [bug report](https://github.com/sadanandpai/resume-builder/issues/new?ass
 ## License
 
 This project is licensed under the MIT License - [MIT licensed](./LICENSE).
+
+
+![IMG_20240528_1731](https://github.com/Naumaan777/resume-builder/assets/115418662/daadf0e6-6a54-4853-bbd3-a82e6604f2b7)
+
+
+
