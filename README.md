@@ -1,20 +1,18 @@
-# Resume Builder
+# Resume-Builder 
 
-## Description
-This project is a Resume Builder application built using React.js, Next.js, Redux, Hooks, APIs, JavaScript, and TypeScript. It allows users to create and customize their professional resumes.
 <div align="center">
 
 ### Free and open source, professional single page resume builder
 
+![resume-portfolio-svgrepo-com](https://github.com/Naumaan777/resume-builder/assets/115418662/9da76ea4-4f32-47dc-a396-2e65fa92b83c)
 
 
+[![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/) ![img icons8](https://github.com/Naumaan777/resume-builder/assets/115418662/3776cbd0-a8ec-4d21-a422-35f348267fe7) ![img icons8](https://github.com/Naumaan777/resume-builder/assets/115418662/0358e778-a2fe-4f60-9533-335d53cd83ea) ![img icons8](https://github.com/Naumaan777/resume-builder/assets/115418662/6b4a64b9-4cc6-40d0-b9db-4d86de778978) ![img icons8](https://github.com/Naumaan777/resume-builder/assets/115418662/40f0b21c-8322-4d46-8b3b-cc7d02ebdc73)
 
-[![](https://img.shields.io/github/stars/sadanandpai/single-page-resume-builder?style=for-the-badge)](#stars)
-[![](https://img.shields.io/github/forks/sadanandpai/single-page-resume-builder?style=for-the-badge)](#forks)
-
-[![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
-[![ReactJS](https://skillicons.dev/icons?i=reactjs)](https://reactjs.org/)
 </div>
+
+## Description
+This project is a Resume Builder application built using React.js, Next.js, Redux, Hooks, APIs, JavaScript, and TypeScript. It allows users to create and customize their professional resumes.
 
 ## Features
 - **User Authentication**: Users can sign up, log in, and manage their profiles.
@@ -65,7 +63,6 @@ Features:
 - No sign-up needed — go straight to the building!
 - Your data never leaves your device
 
-> Disclaimer: To enhance the vision and usage, contact me.
 
 
 ## Contributing Guide
