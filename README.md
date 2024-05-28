@@ -30,9 +30,8 @@ Features:
 - No sign-up needed — go straight to the building!
 - Your data never leaves your device
 
-> Disclaimer: To enhance the vision and usage, we are shadowing our user's interactions. This is solely performed to serve you better
+> Disclaimer: To enhance the vision and usage, contact me.
 
-Learn more about our design in the [*E-Resume — Build a professional resume: Design case study* Medium post.](https://uxplanet.org/e-resume-build-a-professional-resume-design-case-study-3dc02a6359ea)
 
 ## Contributing Guide
 
