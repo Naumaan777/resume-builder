@@ -58,7 +58,7 @@ This project is a Resume Builder application built using React.js, Next.js, Redu
    
 7. Sign up or log in to create your resume.
 
- ![Screenshot (1)](https://github.com/Naumaan777/resume-builder/assets/115418662/4fa4f562-6e7b-4e8c-81b1-cf7898fc8157)
+![Screenshot142](https://github.com/Naumaan777/resume-builder/assets/115418662/098e3acb-d310-41a4-9a63-7977661aef89)
 
 8. Fill in the necessary details in the form.
 
